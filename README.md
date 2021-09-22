@@ -2,7 +2,7 @@
 
 ##### Actualmente estoy trabajando en mi propia empresa como proveedor tecnológico.  [@pixplix](https://github.com/pixplix "@pixplix")
 
-- 👨‍🎓 Soy ING. Desarrolladoar de Software que está ahora estudiando Ing. Industrial.
+- 👨‍🎓 Soy ING. Desarrollador de Software que está ahora estudiando Ing. Industrial.
 - 🎈 Estoy creando sistemas para mejorar la vida de todos
 - 🏍 Pasear en mi motocicleta
 
